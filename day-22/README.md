@@ -6,11 +6,9 @@ This project explains how to deploy 2048 game Application on Amazon EKS by provi
 
 Prerequisites: 
 
--kubectl
-
--eksctl
-
--AWS CLI
+- kubectl
+- eksctl
+- AWS CLI
 
 
 
