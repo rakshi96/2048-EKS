@@ -34,6 +34,8 @@ Below command is executed to update the kubeconfig file for your local Kubernete
 # Step2: Create Fargate profile with namespace game-2048
 ![10](https://github.com/user-attachments/assets/3a70f9b7-9bf2-47c4-a3a4-b377ddd06dc5)
 
+It creates a fargate profile named alb-sample-app in the EKS cluster.
+
 
 
 
