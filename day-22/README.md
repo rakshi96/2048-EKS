@@ -75,6 +75,11 @@ All the above configurations are applied.
 
 ![15](https://github.com/user-attachments/assets/9455cf59-8c4e-4a16-b2fa-d5fc072184a2)
 
+Here we do not have the address in the Ingress resource to access it from outside world, this is because we didn't configure Ingress Controller.Ingress controller reads Ingress resource and creates Application LB with target groups and ports.
+If external user is trying to access LB, then ingress controller reads the ingress resource & whenever it finds matching rules it will forward request to service-2048. It will then forward the request to Delpoyment. 
+
+Before deploying the ingress contoller(ALB) we need to create IAM OIDC provider to grant access to AWS account so that ALB within AWS account can be integrated to gain access.
+
 
 
 
