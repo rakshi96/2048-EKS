@@ -25,6 +25,9 @@ The above command created entire EKS Cluster which includes Fargate instances, V
 
 
 
+
+
+
 ![9](https://github.com/user-attachments/assets/e27f7562-9069-4465-a446-822527bee11a)
 
 
