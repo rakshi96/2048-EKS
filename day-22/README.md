@@ -39,6 +39,11 @@ It creates a fargate profile named alb-sample-app in the EKS cluster.
 
 ![11](https://github.com/user-attachments/assets/d6a05d8f-487a-44e1-b516-0736ac54d453)
 
+# Step3: Deploy YAML configuration file (Deploy, Service, Ingress)
+YAML file is created which defines Deployments, services, ingress required for application.
+
+![13](https://github.com/user-attachments/assets/5ca4128c-c0a4-40ce-83e6-8c14b6fa1984)
+
 
 
 
