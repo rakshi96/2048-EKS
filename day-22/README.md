@@ -25,7 +25,7 @@ The above command created entire EKS Cluster which includes Fargate instances, V
 
 
 
-
+Below command is executed to update the kubeconfig file for your local Kubernetes client(kubectl) with the necessary configuration to connect to an EKS cluster named 'demo-cluster'. It allows you to interact with the EKS cluster using kubectl commands
 
 
 ![9](https://github.com/user-attachments/assets/e27f7562-9069-4465-a446-822527bee11a)
