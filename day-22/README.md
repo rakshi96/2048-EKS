@@ -80,6 +80,11 @@ If external user is trying to access LB, then ingress controller reads the ingre
 
 Before deploying the ingress contoller(ALB) we need to create IAM OIDC provider to grant access to AWS account so that ALB within AWS account can be integrated to gain access.
 
+# Step4: Configure IAM OICD Provider 
+
+![16](https://github.com/user-attachments/assets/037b6092-eb6e-4165-bf97-2bce69d41f21)
+
+
 
 
 
