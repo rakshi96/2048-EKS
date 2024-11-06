@@ -89,9 +89,9 @@ Create an IAM Policy for the AWS LB Controller
 
 ![17](https://github.com/user-attachments/assets/91909c19-ced9-4eb0-8ee4-1c15bb238ee6)
 
+Whenever a pod is running it will have Service account, service account needs IAM roles to be attached so that it can integrate with other AWS services.
 
-# Step5: 
-
+![18](https://github.com/user-attachments/assets/e32d621b-e2a8-48d1-83d7-b649120b5ceb)
 
 
 
