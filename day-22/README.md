@@ -67,6 +67,19 @@ We can apply this file configurations to create deployment, service and Ingress 
 
 ![12](https://github.com/user-attachments/assets/13dc68d7-b5df-4c2a-b415-a101cd3c11f6)
 
+All the above configurations are applied.
+
+![14](https://github.com/user-attachments/assets/28ed1acb-777c-4e64-a05a-7ee18b0b5567)
+
+
+
+![15](https://github.com/user-attachments/assets/9455cf59-8c4e-4a16-b2fa-d5fc072184a2)
+
+
+
+
+
+
 
 
 
