@@ -52,6 +52,21 @@ Deployment.yaml:
 - Defined the no of pod replicas for this deployment.
 - Updated the image with latest application's docker image.
 
+Service.yaml:
+
+- Used namespace game-2048 for this service.
+- Defined 'nodeport' service type mode.
+- Target port is container port ( service) of pod
+
+Ingress.yaml:
+
+- In this case we want the ingress to be internet facing so that our application inside cluster can be by outside world.
+- IngessClass name is alb 
+- 
+- 
+
+- 
+
 
 
 
