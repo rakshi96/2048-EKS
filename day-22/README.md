@@ -62,10 +62,8 @@ Ingress.yaml:
 
 - In this case we want the ingress to be internet facing so that our application inside cluster can be by outside world.
 - IngessClass name is alb 
-- 
-- 
+ 
 
-- 
 
 
 
