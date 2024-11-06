@@ -94,10 +94,14 @@ Whenever a pod is running it will have Service account, service account needs IA
 ![18](https://github.com/user-attachments/assets/e32d621b-e2a8-48d1-83d7-b649120b5ceb)
 
 # Step5: Installing Helm Charts for ALB Controller
+
 ![20](https://github.com/user-attachments/assets/96b2571e-ef7a-40a2-b268-75c4c02df43e)
 Adding EKS to Helm repositories and update the Helm repo and then install the ALB Controller using Helm charts.
 
 # Step6: Deploy AWS Load Balancer Controller
+
+![21](https://github.com/user-attachments/assets/82eba17d-98ad-4ba5-bd27-24fa16871528)
+Helm Chart will create AWS controller and it will use this service account for running the pod.
 
 
 
