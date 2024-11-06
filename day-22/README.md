@@ -103,6 +103,15 @@ Adding EKS to Helm repositories and update the Helm repo and then install the AL
 ![21](https://github.com/user-attachments/assets/82eba17d-98ad-4ba5-bd27-24fa16871528)
 Helm Chart will create AWS controller and it will use this service account for running the pod.
 
+![22](https://github.com/user-attachments/assets/ffc04b5a-0a46-46fc-b0a6-2207d89d9017)
+
+
+
+![24](https://github.com/user-attachments/assets/ac1ecda9-cdc6-4b80-978a-3baac7c9da0f)
+
+Deployed 2 replicas of ALB Controller in different availability zones. 
+The above ALB Controller created an Application Load Balancer using the given Ingress resource.
+
 
 
 
