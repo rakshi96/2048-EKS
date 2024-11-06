@@ -85,6 +85,7 @@ Before deploying the ingress contoller(ALB) we need to create IAM OIDC provider 
 ![16](https://github.com/user-attachments/assets/037b6092-eb6e-4165-bf97-2bce69d41f21)
 
 
+Create an IAM Policy for the AWS LB Controller
 
 ![17](https://github.com/user-attachments/assets/91909c19-ced9-4eb0-8ee4-1c15bb238ee6)
 
