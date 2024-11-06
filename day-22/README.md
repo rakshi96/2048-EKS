@@ -4,11 +4,20 @@ This project explains how to deploy 2048 game Application on Amazon EKS by provi
 
 ![26](https://github.com/user-attachments/assets/3602cdbe-6b7b-4c6a-869a-7f26555c8497)
 
-Prerequisites: 
+# Prerequisites: 
 
 - kubectl
 - eksctl
 - AWS CLI
+
+# Components and Tools used:
+
+- EKS Cluster
+- Fargate Profile
+- Ingress
+- Ingress Controller
+- IAM OIDC Provider
+  
 
 
 
