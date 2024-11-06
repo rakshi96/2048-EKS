@@ -17,6 +17,11 @@ Components and Tools used:
   services.
 - IAM OIDC Provider: It is an Identity provider allows AWS to authenticate users or services using OpenID Connect (OIDC) tokens.
 - Deployment & Service: Deploy.yaml and Service.yaml file is created which defines deployments, services, labels and selectors.
+
+# Step1: Create EKS Cluster using eksctl command
+
+![6](https://github.com/user-attachments/assets/2e55a340-7752-4c42-aeb9-e8ceed662328)
+
   
 
 
