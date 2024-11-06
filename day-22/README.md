@@ -44,6 +44,14 @@ YAML file is created which defines Deployments, services, ingress required for a
 
 ![13](https://github.com/user-attachments/assets/5ca4128c-c0a4-40ce-83e6-8c14b6fa1984)
 
+Deployment.yaml:
+
+- Created namspace game-2048
+- Created Deployment in game-2048
+- Created labels and selectors with the name 'app-2048'. Selector in service.yaml should match with selector(label) in deployment.yaml. Service will be able to discover pods using lebels and selectors.
+- Defined the no of pod replicas for this deployment.
+- Updated the image with latest application's docker image.
+
 
 
 
