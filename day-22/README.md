@@ -71,6 +71,8 @@ We can apply this file configurations to create deployment, service and Ingress 
 
 
 
+
+
   
 
 
