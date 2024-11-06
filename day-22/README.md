@@ -19,8 +19,11 @@ Components and Tools used:
 - Deployment & Service: Deploy.yaml and Service.yaml file is created which defines deployments, services, labels and selectors.
 
 # Step1: Create EKS Cluster using eksctl command
+The above command created entire EKS Cluster which includes Fargate instances, VPC, private and public subnets, route tables, IAM roles.
 
 ![6](https://github.com/user-attachments/assets/2e55a340-7752-4c42-aeb9-e8ceed662328)
+
+
 
   
 
