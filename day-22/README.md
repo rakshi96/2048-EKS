@@ -37,6 +37,10 @@ Below command is executed to update the kubeconfig file for your local Kubernete
 It creates a fargate profile named alb-sample-app in the EKS cluster.
 
 
+![11](https://github.com/user-attachments/assets/d6a05d8f-487a-44e1-b516-0736ac54d453)
+
+
+
 
 
 
