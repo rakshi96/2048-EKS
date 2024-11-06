@@ -23,7 +23,10 @@ The above command created entire EKS Cluster which includes Fargate instances, V
 
 ![6](https://github.com/user-attachments/assets/2e55a340-7752-4c42-aeb9-e8ceed662328)
 
-# 
+
+
+![9](https://github.com/user-attachments/assets/e27f7562-9069-4465-a446-822527bee11a)
+
 
 
 
