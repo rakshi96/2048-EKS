@@ -31,6 +31,10 @@ Below command is executed to update the kubeconfig file for your local Kubernete
 ![9](https://github.com/user-attachments/assets/e27f7562-9069-4465-a446-822527bee11a)
 
 
+# Step2: Create Fargate profile with namespace game-2048
+![10](https://github.com/user-attachments/assets/3a70f9b7-9bf2-47c4-a3a4-b377ddd06dc5)
+
+
 
 
 
