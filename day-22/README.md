@@ -61,11 +61,11 @@ Service.yaml:
 Ingress.yaml:
 
 - In this case we want the ingress to be internet facing so that our application inside cluster can be by outside world.
-- IngessClass name is alb 
- 
+- IngessClass name is alb
 
+We can apply this file configurations to create deployment, service and Ingress resource for 2048 game application using 'kubectl-apply'command.
 
-
+![12](https://github.com/user-attachments/assets/13dc68d7-b5df-4c2a-b415-a101cd3c11f6)
 
 
 
