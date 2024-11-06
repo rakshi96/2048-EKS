@@ -112,6 +112,12 @@ Helm Chart will create AWS controller and it will use this service account for r
 Deployed 2 replicas of ALB Controller in different availability zones. 
 The above ALB Controller created an Application Load Balancer using the given Ingress resource.
 
+![25](https://github.com/user-attachments/assets/ffdbe591-d658-40bf-81b6-ffcf617cd95a)
+The LB is created and Application can be accessed using LB address
+
+![26](https://github.com/user-attachments/assets/44ca7b85-0ae6-40ff-b207-9e14ec1870f5)
+
+
 
 
 
