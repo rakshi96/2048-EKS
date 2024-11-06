@@ -10,9 +10,9 @@ Prerequisites:
 - AWS CLI
 
 Components and Tools used:
-- EKS Cluster:AWS managed Kubernetes service that simplifies the deployment, management, and scaling of containerized applications.
-- Fargate Profile:
-- Ingress
+- EKS Cluster: AWS managed Kubernetes service that simplifies the deployment, management, and scaling of containerized applications.
+- Fargate Profile: Defines the configuration for running Kubernetes pods on AWS Fargate, allowing for serverless compute without managing EC2 instances.
+- Ingress: It manages the external access to Kubernetes cluster such as HTTP or HTTPS traffic.
 - Ingress Controller
 - IAM OIDC Provider
   
